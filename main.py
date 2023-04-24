@@ -1,7 +1,7 @@
 def selva():
-  print("Hi Selva")
+    print("Hi Selva")
   
 def Fun():
-  print("bujuk")
+    print("bujuk")
     
 print(selva())
